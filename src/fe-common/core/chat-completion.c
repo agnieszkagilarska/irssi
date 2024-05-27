@@ -1,5 +1,5 @@
 /*
- chat-completion.c : irssi
+ chat-completion.c : irss
 
     Copyright (C) 1999-2000 Timo Sirainen
 
